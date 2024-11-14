@@ -1,0 +1,13 @@
+jupyterlab 
+jupyter 
+numpy 
+pandas 
+seaborn 
+matplotlib 
+pillow 
+graphviz 
+pydot
+scikit-learn 
+opencv-python
+tensorflow 
+keras
